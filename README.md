@@ -34,6 +34,4 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 ![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
   
 *  There are 1549 employees that can serve as [mentors for incoming and upcoming employees.](Data/mentorship_eligibility.csv)  
-(*determined by current employees that were born in 1965*)  
-
-
+(*determined by current employees born in 1965*)  
