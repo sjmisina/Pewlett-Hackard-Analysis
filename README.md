@@ -17,13 +17,14 @@ With retirement age coming up for many employees in the near future, an anaylisi
 Along with the expected attrition of the coming "silver tsunami," there will be a great need to replace many positions and therefore our mature staff at Pewlett Hackard can serve as mentors to ensure our company culture and standards can be passed along to the next generation of leaders and senior positions. A roster of projected eligible PH employees that can serve in this mentorship role has been generated and presented here as part of this analysis.  
 
 ## Results  
-There are a large number of functional roles that will be vacated through retirement, as identified by the existing roles that will be open by number.  
+*  There is a large number of functional roles that will be vacated through retirement.  
+*  There is an opportunity to evaluate how to move forward by:
+    *  restructuring existing roles  
+    *  creating new roles, or   
+    *  directly supplanting the retiring employee. 
+*  There is a fantastic opportunity to empower our mature employee base by leveraging a mentorship program. 
+*  This will ensure business continuity and employee engagement for PH as we move into the 21st century
 
-In recognizing our employees for their years of service and professional achivements, we have the opportunity to determine how to absorb their responsibilities by  restructuring existing roles, creating new roles, or by directly supplanting the employee. This will be key for business continuity as PH moves into the 21st century.
-
-Results:
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 Summary:
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
