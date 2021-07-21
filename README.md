@@ -18,7 +18,7 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 
 ## Results  
 *  There is a large number of functional roles that will be vacated through retirement.  
-![vacant_roles](Data/vacant_roles.png "Vacant Roles")
+<img src="Data/vacant_roles.png" alt="Vacant Roles" style="width:200px;"/>
 *  There is an opportunity to evaluate how to move forward in these roles by:
     *  restructuring existing roles  
     *  creating new roles, or   
