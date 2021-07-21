@@ -30,8 +30,8 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 (*determined by birth date*)  
   
 *  The functional role of these employees span 7 departments  
-*  Of these roles, nearly 58,000 positions are marked as "senior" level positions  
-*  ![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
+  *  Of these roles, nearly 58,000 positions are marked as "senior" level positions  
+![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
   
 *  There are 1549 employees that can serve as [mentors for incoming and upcoming employees.](Data/mentorship_eligibility.csv)  
 (*determined by current employees born in 1965*)  
