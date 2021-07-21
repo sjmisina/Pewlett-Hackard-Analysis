@@ -1,4 +1,4 @@
--- Deliverable 1
+-- DELIVERABLE 1
 -- Number of retiring employees by title
 SELECT e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 INTO retirement_titles
@@ -28,6 +28,8 @@ FROM unique_titles AS ut
 GROUP BY ut.title 
 ORDER BY COUNT DESC;
 
+
+-- DELIVERABLE 2
 -- create a mentorship-eligibility table that holds the current employees
 -- who were born between January 1, 1965 and December 31, 1965
 SELECT DISTINCT ON (t.emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date,
