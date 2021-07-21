@@ -18,7 +18,6 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 
 ## Results  
 *  There is a large number of functional roles that will be vacated through retirement.  
-<![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")
 *  There is an opportunity to evaluate how to move forward in these roles by:
     *  restructuring existing roles  
     *  creating new roles, or   
@@ -27,4 +26,8 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 *  This will ensure business continuity and employee engagement as we move into the 21st century as a top tier company
 
 ## Summary  
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+There are many roles that will become vacant as our employee base reaches retirement age:  
+![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
+  
+There are 1549 employees that can serve as [mentors for incoming and upcoming employees.](Data/mentorship_eligibility.csv)  
+  
