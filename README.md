@@ -18,13 +18,12 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 
 ## Results  
 *  There is a large number of functional roles that will be vacated through retirement.  
-*  There is an opportunity to evaluate how to move forward by:
+*  There is an opportunity to evaluate how to move forward in these roles by:
     *  restructuring existing roles  
     *  creating new roles, or   
     *  directly supplanting the retiring employee. 
-*  There is a fantastic opportunity to empower our mature employee base by leveraging a mentorship program. 
-*  This will ensure business continuity and employee engagement for PH as we move into the 21st century
+*  PH has a window to empower our mature employee base by enabling a mentorship program as we fill employment needs
+*  This will ensure business continuity and employee engagement as we move into the 21st century as a top tier company
 
-Summary:
-
+## Summary  
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
