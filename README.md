@@ -29,9 +29,9 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 *  There are more than 90,000 current employees [that are near to retirement age.](Data/unique_titles.csv)  
 (*determined by birth date*)  
   
-*  There are many roles that will become vacant as our employee base reaches retirement age.  
-*  Of these roles, nearly 58,000 positions are marked as "senior" level positions.  
-![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
+*  The functional role of these employees span 7 departments  
+*  Of these roles, nearly 58,000 positions are marked as "senior" level positions  
+*  ![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
   
 *  There are 1549 employees that can serve as [mentors for incoming and upcoming employees.](Data/mentorship_eligibility.csv)  
 (*determined by current employees born in 1965*)  
