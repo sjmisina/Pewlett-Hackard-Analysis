@@ -26,11 +26,11 @@ Along with the expected attrition of the coming "silver tsunami," there will be 
 *  This will ensure business continuity and employee engagement as we move into the 21st century as a top tier company
 
 ## Summary  
-*  There are more than 90,000 current employees [that are near to retirement age.](Data/unique_titles.csv)
-(*determined by birth date*)
-
+*  There are more than 90,000 current employees [that are near to retirement age.](Data/unique_titles.csv)  
+(*determined by birth date*)  
+  
 *  There are many roles that will become vacant as our employee base reaches retirement age.  
-*  Of these roles, nearly 58,000 positions are marked as "senior" level positions.
+*  Of these roles, nearly 58,000 positions are marked as "senior" level positions.  
 ![vacant_roles.png](Data/vacant_roles.png "Vacant Roles")  
   
 *  There are 1549 employees that can serve as [mentors for incoming and upcoming employees.](Data/mentorship_eligibility.csv)  
